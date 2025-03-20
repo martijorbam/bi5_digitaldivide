@@ -51,10 +51,10 @@ createEnvVariables () {
 
 
     export project_dir=$HOME/nighthawk 
-    export project=\$project_dir/portfolio_2025 # <your project_dir>
+    export project=\$project_dir/bi5_digitaldivide # <your project_dir>
     export posts=\$project/_posts
     export notebooks=\$project/_notebooks
-    export project_repo="https://github.com/nighthawkcoders/portfolio_2025" # <your github directory>
+    export project_repo="https://github.com/nighthawkcoders/bi5_digitaldivide" # <your github directory>
     
     printCommand "echo \"Repos home dir: $project_dir\""
     printCommand "echo \"Project dir: $project\""

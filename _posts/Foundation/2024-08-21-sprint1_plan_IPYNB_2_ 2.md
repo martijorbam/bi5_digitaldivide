@@ -7,7 +7,7 @@ courses: {'csse': {'week': 0}, 'csp': {'week': 0}, 'csa': {'week': 0}}
 comments: True
 ---
 
-## [Issue](https://github.com/nighthawkcoders/portfolio_2025/issues/14) 
+## [Issue](https://github.com/nighthawkcoders/bi5_digitaldivide/issues/14) 
 
 ## Project-base Learning Requirements
 Each sprint there will be hacks and project-based learning requirements.  It is up to the individual to develop their own plan for how they will represent work.  Here are some links and tips.
@@ -35,7 +35,7 @@ The Teacher likes behaviors that are easily viewed and interpreted as productive
 - Ears that can listen.  100% of time you should be available for discussion.  Covered or plugged in ears restricts hearing.
 - Hands that can code. The primary coding device is assumed to be your laptop!  Sprint 1 will be focused on laptop importance.
 
-[Read Learning Habits Table](https://github.com/nighthawkcoders/portfolio_2025/issues/14) to understand how behaviors will impact grading.
+[Read Learning Habits Table](https://github.com/nighthawkcoders/bi5_digitaldivide/issues/14) to understand how behaviors will impact grading.
 
 
 

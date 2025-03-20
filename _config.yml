@@ -3,7 +3,7 @@ description: "Class of 2025"
 owner_name: Marti Jorba
 github_username: martijorbam
 github_repo: "bi5_digitaldivide" 
-baseurl: "/portfolio_2025"
+baseurl: "/bi5_digitaldivide"
 future: true
 remote_theme: jekyll/minima
 minima:

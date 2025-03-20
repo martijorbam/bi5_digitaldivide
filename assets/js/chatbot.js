@@ -26,8 +26,8 @@ const urls = {
 
 // Define assets such as images and names for the bot and user
 const assets = {
-  botImg: "/portfolio_2025/assets/icons/icons8-chat-bot-64.png", // Bot image icon
-  personImg: "/portfolio_2025/assets/icons/icons8-person-94.png", // User image icon
+  botImg: "/bi5_digitaldivide/assets/icons/icons8-chat-bot-64.png", // Bot image icon
+  personImg: "/bi5_digitaldivide/assets/icons/icons8-person-94.png", // User image icon
   botName: "Chat Bot", // Bot name
   personName: "You", // User name
   botTitle: "AI Bot", // Bot title for image tooltip

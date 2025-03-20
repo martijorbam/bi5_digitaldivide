@@ -1,4 +1,4 @@
-export const baseurl = "/portfolio_2025";
+export const baseurl = "/bi5_digitaldivide";
 
 const location = "localhost"
 

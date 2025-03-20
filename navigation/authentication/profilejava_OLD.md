@@ -427,7 +427,7 @@ show_reading_time: false
             try {
                 await postUpdate(options);
                 await logoutUserJava();
-                window.location.href = '/portfolio_2025/toolkit-login'
+                window.location.href = '/bi5_digitaldivide/toolkit-login'
             } catch (error) {
                 console.error('Error updating  UId:', error.message);
             }
@@ -441,7 +441,7 @@ show_reading_time: false
                 body: { password }, // Adjust the message area as needed
                 callback: () => {
                     console.log('Password updated successfully!');
-                    window.location.href = '/portfolio_2025/toolkit-login'
+                    window.location.href = '/bi5_digitaldivide/toolkit-login'
 
                 }
             };

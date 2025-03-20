@@ -26,7 +26,7 @@ Jekyll converts Markdown (.md) files into HTML. Behind the scenes of GitHub Page
 
 ### GitHub Pages index.md
 
-In GitHub Pages, you can define code in Markdown. The portfolio_2025 **index.md uses markdown** to define a page about CompSci courses at Del Norte High School.
+In GitHub Pages, you can define code in Markdown. The bi5_digitaldivide **index.md uses markdown** to define a page about CompSci courses at Del Norte High School.
 
 - Markdown fragment. The markdown fragment is written by the developer and is an example of how to start a home page using Markdown.
 
